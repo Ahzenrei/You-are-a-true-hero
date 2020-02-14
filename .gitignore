@@ -259,3 +259,23 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Assets/Anim
+/Assets/Sprites
+/Assets/Sound
+/Assets/Scenes
+/Assets/Resources/Prefabs
+/UnityEngine.TestRunner.csproj
+/UnityEditor.TestRunner.csproj
+/Unity.VSCode.Editor.csproj
+/Unity.TextMeshPro.Editor.csproj
+/Unity.TextMeshPro.csproj
+/Unity.Rider.Editor.csproj
+/Unity.CollabProxy.Editor.csproj
+/Unity.Analytics.DataPrivacy.csproj
+/Temp
+/ProjectSettings
+/Library
+/CommunityGameJam2019.csproj
+/Assets/TextMesh Pro
+/Assets/Bridge.mat
+/Assembly-CSharp.csproj
